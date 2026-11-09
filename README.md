@@ -1,4 +1,4 @@
-# Food Store – Sistema de gestión de pedidos (consola)
+# Food Store – Sistema de gestión de pedidos por consola
 
 Trabajo Práctico Integrador de **Programación II** (Tecnicatura Universitaria en Programación a Distancia, UTN).
 Aplicación de consola en Python con Programación Orientada a Objetos. Toda la información vive en memoria mientras el programa se ejecuta.
