@@ -8,7 +8,7 @@ Aplicación de consola en Python con Programación Orientada a Objetos. Toda la 
 Requiere **Python 3.12 o superior**. No necesita instalar dependencias: usa solo la biblioteca estándar.
 
 ```bash
-cd food_store
+cd food_store         # omitir si ya se esta dentro de la carpeta o la version del repo
 python main.py        # inicia el sistema
 python pruebas.py     # muestra los casos válidos y los errores esperados
 ```
